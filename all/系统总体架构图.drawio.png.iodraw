@@ -25,13 +25,13 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-7" value="本地模型权重" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-6" vertex="1">
           <mxGeometry x="43" y="46" width="146" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-8" value="GPU/CPU推理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-6" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-8" value="GPU/CPU推理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-6" vertex="1">
           <mxGeometry x="239" y="46" width="139" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-9" value="中间缓存" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-6" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-9" value="中间缓存" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-6" vertex="1">
           <mxGeometry x="429" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-10" value="语音转换模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-10" value="语音转换模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="1026" y="392" width="523" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-11" value="FreeVC" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-10" vertex="1">
