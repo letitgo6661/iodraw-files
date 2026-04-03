@@ -7,7 +7,7 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-49" value="音频输入阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="20" y="265" width="169" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-50" value="&amp;quot;预处理阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-50" value="&amp;quot;预处理阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="268" y="173" width="157" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-51" value="&amp;quot;特征分析阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
