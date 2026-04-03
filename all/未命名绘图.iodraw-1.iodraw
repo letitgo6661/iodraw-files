@@ -22,7 +22,7 @@
         <mxCell id="-sXcnta8Uq9JbpJqfna5-6" value="一级切分策略：强停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="85" y="600" width="252" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-7" value="一级切分后是否仍过长？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-7" value="一级切分后是否仍过长？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="99" y="817" width="224" height="224" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-8" value="二级切分策略：弱停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" vertex="1" parent="1">
