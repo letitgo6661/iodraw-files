@@ -70,10 +70,10 @@
         <mxCell id="XxsvYqhSsh_ClJfVrc73-22" value="前端解释性提示" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1389" y="350" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-23" value="推荐使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-23" value="推荐使用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1611" y="153" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-24" value="可以使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-24" value="可以使用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1611" y="329" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XxsvYqhSsh_ClJfVrc73-25" value="建议更换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
