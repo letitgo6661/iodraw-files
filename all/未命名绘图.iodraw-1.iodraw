@@ -64,10 +64,10 @@
         <mxCell id="XxsvYqhSsh_ClJfVrc73-20" value="Fair" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1431" y="153" width="89" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-21" value="Poor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-21" value="Poor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1429" y="252" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-22" value="前端解释性提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-22" value="前端解释性提示" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1389" y="350" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XxsvYqhSsh_ClJfVrc73-23" value="推荐使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
