@@ -79,7 +79,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-25" value="请求校验" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-23" vertex="1">
           <mxGeometry x="218" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-26" value="任务分发" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-23" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-26" value="任务分发" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-23" vertex="1">
           <mxGeometry x="385" y="46" width="118" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-27" value="状态反馈" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-23" vertex="1">
