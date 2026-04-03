@@ -16,7 +16,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-37" value="结果等级" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="43" y="292" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-38" value="系统提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-38" value="系统提示" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="43" y="425" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-39" value="时长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -49,7 +49,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-48" value="明显偏低" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="853" y="169" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-49" value="Fair / Poor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-49" value="Fair / Poor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="846" y="292" width="138" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-50" value="提示音量偏低或录音环境较差。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -61,7 +61,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-52" value="非单声道" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="1155" y="169" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-53" value="Fair" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-53" value="Fair" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="1173" y="292" width="89" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-54" value="提示可能存在通道不一致问题。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
