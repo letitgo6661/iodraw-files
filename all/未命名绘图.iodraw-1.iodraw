@@ -34,13 +34,13 @@
         <mxCell id="XxsvYqhSsh_ClJfVrc73-10" value="采样率" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="892" y="1098" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-11" value="声道数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-11" value="声道数" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="892" y="1196" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-12" value="RMS音量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-12" value="RMS音量" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="886" y="1295" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-13" value="规则判定与评分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-13" value="规则判定与评分" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="866" y="657" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XxsvYqhSsh_ClJfVrc73-14" value="时长过短不推荐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
