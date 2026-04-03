@@ -19,7 +19,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-5" value="日志信息" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-2">
           <mxGeometry x="393" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-6" value="模型与缓存" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-6" value="模型与缓存" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1001" y="224" width="573" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-7" value="本地模型权重" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-6">
@@ -31,7 +31,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-9" value="中间缓存" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-6">
           <mxGeometry x="429" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-10" value="语音转换模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-10" value="语音转换模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1026" y="392" width="523" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-11" value="FreeVC" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-10">
