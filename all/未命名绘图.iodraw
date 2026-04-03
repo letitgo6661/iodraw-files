@@ -16,7 +16,7 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-52" value="&amp;quot;质量判定阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="757" y="73" width="169" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-53" value="&amp;quot;结果反馈阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-53" value="&amp;quot;结果反馈阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="1032" y="60" width="169" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-54" value="上传参考音频&#xa;支持 wav、mp3、flac 等格式" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-57" value="根据预设规则进行综合评估&#xa;· 时长过短不推荐&#xa;· 5–20 秒更适合作为参考&#xa;· 音量过低提示重录&#xa;· 非单声道提示可能影响效果" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1010" y="139" width="212" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-58" value="输出质量等级并生成解释性提示&#xa;等级：Good / Fair / Poor&#xa;提示：推荐使用 / 可以使用 / 建议更换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-58" value="输出质量等级并生成解释性提示&#xa;等级：Good / Fair / Poor&#xa;提示：推荐使用 / 可以使用 / 建议更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1272" y="89" width="228" height="83" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-59" value="质量评估依据&#xa;——&#xa;时长 / 音量 / 声道" style="whiteSpace=wrap;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
