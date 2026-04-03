@@ -40,10 +40,10 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-12" value="语音转语音" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-10" vertex="1">
           <mxGeometry x="196" y="46" width="132" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-13" value="音色迁移" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-10" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-13" value="音色迁移" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-10" vertex="1">
           <mxGeometry x="378" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-14" value="语音生成模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-14" value="语音生成模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="1016" y="561" width="544" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-15" value="XTTS-v2" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-14" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-32" value="音频上传" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="560" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="825" y="316" width="101" height="101" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=0;rounded=1;" parent="1" source="0XMrlNC3brzq93ETkNUD-28" target="0XMrlNC3brzq93ETkNUD-33" edge="1">
