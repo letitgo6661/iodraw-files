@@ -88,7 +88,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-28" value="用户交互层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="45" y="139" width="705" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-29" value="浏览器页面" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-29" value="浏览器页面" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="43" y="46" width="132" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-30" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-31" value="结果试听" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=17;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="393" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-32" value="音频上传" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-32" value="音频上传" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="560" y="46" width="118" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
