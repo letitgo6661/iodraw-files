@@ -22,10 +22,10 @@
         <mxCell id="XxsvYqhSsh_ClJfVrc73-6" value="参考音频上传" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="45" y="1157" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-7" value="音频统一转码为WAV" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-7" value="音频统一转码为WAV" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="301" y="1157" width="202" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-8" value="基础声学特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-8" value="基础声学特征提取" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="603" y="1157" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XxsvYqhSsh_ClJfVrc73-9" value="时长" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
