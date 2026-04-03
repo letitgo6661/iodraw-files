@@ -55,7 +55,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-17" value="多语种克隆" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-14" vertex="1">
           <mxGeometry x="385" y="46" width="132" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-18" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-18" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="20" y="104" width="755" height="526" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-19" value="优化与控制层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-30" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="225" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-31" value="结果试听" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-31" value="结果试听" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=17;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="393" y="46" width="118" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-32" value="音频上传" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
