@@ -55,13 +55,13 @@
         <mxCell id="XxsvYqhSsh_ClJfVrc73-17" value="非单声道警告" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1142" y="861" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-18" value="输出质量等级" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-18" value="输出质量等级" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1142" y="181" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-19" value="Good" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-19" value="Good" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1427" y="55" width="97" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-20" value="Fair" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-20" value="Fair" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1431" y="153" width="89" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XxsvYqhSsh_ClJfVrc73-21" value="Poor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
