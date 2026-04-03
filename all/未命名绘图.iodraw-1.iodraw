@@ -22,16 +22,16 @@
         <mxCell id="-sXcnta8Uq9JbpJqfna5-6" value="一级切分策略：强停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="85" y="600" width="252" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-7" value="一级切分后是否仍过长？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-7" value="一级切分后是否仍过长？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="99" y="817" width="224" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-8" value="二级切分策略：弱停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-8" value="二级切分策略：弱停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="226" y="1114" width="252" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-9" value="输出结果：降低重复朗读、停顿异常和节奏紊乱" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="85" y="1311" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-10" value="长度阈值控制: &#xa;中文和英文使用不同阈值" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-10" value="长度阈值控制: &#xa;中文和英文使用不同阈值" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="407" y="529" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-2" target="-sXcnta8Uq9JbpJqfna5-3">
