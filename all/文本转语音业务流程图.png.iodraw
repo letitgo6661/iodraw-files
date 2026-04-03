@@ -1,0 +1,100 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="1514" dy="447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-1" value="文本转语音业务流程图" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="84" y="542" width="1869" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-2" value="用户输入文本与参数" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=宋体;labelBackgroundColor=none;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="46" y="191" width="174" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-3" value="前端提交请求" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="295" y="191" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-4" value="后端参数校验" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="496" y="191" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-5" value="文本预处理与自动分句" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="720" y="141" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-6" value="任务入队与线程调度" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="1039" y="92" width="174" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-7" value="XTTS模型推理生成语音" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="1319" y="92" width="194" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-8" value="音频拼接与结果返回" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="1626" y="43" width="174" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-9" value="文本过长时触发自动分句" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="1008" y="191" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-10" value="参考音频异常时提示更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="697" y="240" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-11" value="模型未加载时返回错误信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+          <mxGeometry x="1587" y="141" width="252" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-2" target="FyQLIG1uImiY3Z61EWHA-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-3" target="FyQLIG1uImiY3Z61EWHA-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=-0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-4" target="FyQLIG1uImiY3Z61EWHA-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="659" y="166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-5" target="FyQLIG1uImiY3Z61EWHA-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-6" target="FyQLIG1uImiY3Z61EWHA-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-7" target="FyQLIG1uImiY3Z61EWHA-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-18" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.9;exitY=1.02;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-5" target="FyQLIG1uImiY3Z61EWHA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-19" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-4" target="FyQLIG1uImiY3Z61EWHA-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="659" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-20" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="FyQLIG1uImiY3Z61EWHA-1" source="FyQLIG1uImiY3Z61EWHA-7" target="FyQLIG1uImiY3Z61EWHA-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
