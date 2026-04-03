@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-49" value="音频输入阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-49" value="音频输入阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="20" y="265" width="169" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-50" value="&amp;quot;预处理阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
