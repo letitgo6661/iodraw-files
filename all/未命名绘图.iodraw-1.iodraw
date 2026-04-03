@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-1" value="辅助说明" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-1" value="辅助说明" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="372" y="504" width="261" height="241" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-2" value="输入文本" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="-sXcnta8Uq9JbpJqfna5-9" value="输出结果：降低重复朗读、停顿异常和节奏紊乱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="85" y="1311" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-10" value="长度阈值控制: &#xa;中文和英文使用不同阈值" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-10" value="长度阈值控制: &#xa;中文和英文使用不同阈值" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="407" y="529" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-2" target="-sXcnta8Uq9JbpJqfna5-3">
