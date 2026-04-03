@@ -46,12 +46,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-13" value="SRT 字幕" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=1;entryY=0.26;rounded=0;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-3" target="-sXcnta8Uq9JbpJqfna5-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-13" value="SRT 字幕" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=1;entryY=0.26;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-3" target="-sXcnta8Uq9JbpJqfna5-5">
+          <mxGeometry x="0.0001" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="653" y="283" />
               <mxPoint x="653" y="1188" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-14" value="未超阈值" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.04;entryY=-0.01;rounded=0;fontSize=15;fontFamily=宋体;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-4" target="-sXcnta8Uq9JbpJqfna5-5">
@@ -81,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-7" target="-sXcnta8Uq9JbpJqfna5-8">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;fontSize=15;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-7" target="-sXcnta8Uq9JbpJqfna5-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="352" y="1078" />
