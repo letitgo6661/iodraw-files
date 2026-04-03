@@ -32,7 +32,7 @@
           <mxGeometry x="1010" y="139" width="250" height="151" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-58" value="输出质量等级并生成解释性提示&#xa;等级：Good / Fair / Poor&#xa;提示：推荐使用 / 可以使用 / 建议更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="89" width="228" height="83" as="geometry" />
+          <mxGeometry x="1300" y="89" width="228" height="83" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-59" value="质量评估依据&#xa;——&#xa;时长 / 音量 / 声道" style="whiteSpace=wrap;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="750" y="272" width="167" height="68" as="geometry" />
@@ -93,7 +93,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1247" y="187" />
-              <mxPoint x="1283" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
