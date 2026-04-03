@@ -210,6 +210,96 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-89" value="参考音频质量评估流程图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1400" width="1549" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-90" value="参考音频上传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1465" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-91" value="音频统一转码为 WAV" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="771" y="1465" width="207" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-92" value="提取基础声学特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="1465" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-93" value="规则判定与评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1308" y="1455" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-94" value="输出质量等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1621" y="1445" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-95" value="前端提示用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1892" y="1435" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-96" value="时长、采样率、声道数、RMS 音量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1266" y="1583" width="257" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-97" value="时长过短不推荐、5到20秒更适合作为参考、音量过低提示重录、非单声道提示可能影响效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1573" y="1583" width="252" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-98" value="Good、Fair、Poor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1875" y="1583" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-99" value="推荐使用、可以使用、建议更换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2139" y="1426" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-90" target="XxsvYqhSsh_ClJfVrc73-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-91" target="XxsvYqhSsh_ClJfVrc73-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.34;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-92" target="XxsvYqhSsh_ClJfVrc73-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="1479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.39;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-93" target="XxsvYqhSsh_ClJfVrc73-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1548" y="1469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-94" target="XxsvYqhSsh_ClJfVrc73-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1850" y="1459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.32;entryY=0.01;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-92" target="XxsvYqhSsh_ClJfVrc73-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1241" y="1509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-93" target="XxsvYqhSsh_ClJfVrc73-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1548" y="1499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.37;entryY=0.01;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-94" target="XxsvYqhSsh_ClJfVrc73-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1850" y="1489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxsvYqhSsh_ClJfVrc73-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XxsvYqhSsh_ClJfVrc73-95" target="XxsvYqhSsh_ClJfVrc73-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
