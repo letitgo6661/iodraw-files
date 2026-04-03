@@ -67,7 +67,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-21" value="参考音频质量评估" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-19" vertex="1">
           <mxGeometry x="254" y="46" width="175" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-22" value="队列与异常处理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-19" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-22" value="队列与异常处理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-19" vertex="1">
           <mxGeometry x="479" y="46" width="161" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-23" value="Web服务层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;fontSize=17;" parent="1" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-32" value="音频上传" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="560" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="825" y="316" width="101" height="101" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=0;rounded=1;" parent="1" source="0XMrlNC3brzq93ETkNUD-28" target="0XMrlNC3brzq93ETkNUD-33" edge="1">
