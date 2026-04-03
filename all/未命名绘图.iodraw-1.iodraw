@@ -13,13 +13,13 @@
         <mxCell id="-sXcnta8Uq9JbpJqfna5-3" value="文本类型？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="368" y="118" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-4" value="长度检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-4" value="长度检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="155" y="319" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-5" value="分段推理与音频拼接" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="109" y="1213" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-6" value="一级切分策略：强停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-6" value="一级切分策略：强停顿标点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="85" y="600" width="252" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-sXcnta8Uq9JbpJqfna5-7" value="一级切分后是否仍过长？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;" vertex="1" parent="1">
