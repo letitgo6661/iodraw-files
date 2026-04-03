@@ -10,7 +10,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-35" value="评估维度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="43" y="46" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-36" value="规则阈值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-36" value="规则阈值" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="43" y="169" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-37" value="结果等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -22,7 +22,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-39" value="时长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="297" y="46" width="92" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-40" value="小于3秒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-40" value="小于3秒" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="285" y="169" width="116" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-41" value="Poor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -34,7 +34,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-43" value="时长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="583" y="46" width="92" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-44" value="5到20秒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-44" value="5到20秒" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="570" y="169" width="117" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-45" value="Good" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -46,7 +46,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-47" value="RMS音量" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="855" y="46" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-48" value="明显偏低" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-48" value="明显偏低" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="853" y="169" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-49" value="Fair / Poor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -58,7 +58,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-51" value="声道数" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="1163" y="46" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-52" value="非单声道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-52" value="非单声道" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="1155" y="169" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-53" value="Fair" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
