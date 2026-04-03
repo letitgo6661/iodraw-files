@@ -5,7 +5,7 @@
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="FyQLIG1uImiY3Z61EWHA-1" value="文本转语音业务流程图" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="84" y="542" width="1869" height="315" as="geometry" />
+          <mxGeometry x="89" y="548" width="1869" height="315" as="geometry" />
         </mxCell>
         <mxCell id="FyQLIG1uImiY3Z61EWHA-2" value="用户输入文本与参数" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=宋体;labelBackgroundColor=none;fontSize=17;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="46" y="191" width="174" height="48" as="geometry" />
@@ -22,13 +22,13 @@
         <mxCell id="FyQLIG1uImiY3Z61EWHA-6" value="任务入队与线程调度" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=17;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="1039" y="92" width="174" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FyQLIG1uImiY3Z61EWHA-7" value="XTTS模型推理生成语音" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-7" value="XTTS模型推理生成语音" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;fontSize=17;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="1319" y="92" width="194" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FyQLIG1uImiY3Z61EWHA-8" value="音频拼接与结果返回" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="1626" y="43" width="174" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FyQLIG1uImiY3Z61EWHA-9" value="文本过长时触发自动分句" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-9" value="文本过长时触发自动分句" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=17;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="1008" y="191" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FyQLIG1uImiY3Z61EWHA-10" value="参考音频异常时提示更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=17;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
