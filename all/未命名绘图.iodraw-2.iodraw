@@ -46,10 +46,10 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-47" value="RMS音量" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;fontSize=17;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="855" y="46" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-48" value="明显偏低" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-48" value="明显偏低" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=宋体;fontSize=17;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="853" y="169" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-49" value="Fair / Poor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-49" value="Fair / Poor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="846" y="292" width="138" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-50" value="提示音量偏低或录音环境较差。" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
