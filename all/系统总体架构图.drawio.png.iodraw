@@ -85,7 +85,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-27" value="状态反馈" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-23" vertex="1">
           <mxGeometry x="553" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-28" value="用户交互层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-28" value="用户交互层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="45" y="139" width="705" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-29" value="浏览器页面" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
