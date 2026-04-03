@@ -31,7 +31,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-9" value="中间缓存" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-6">
           <mxGeometry x="429" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-10" value="语音转换模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-10" value="语音转换模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1026" y="392" width="523" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-11" value="FreeVC" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-10">
