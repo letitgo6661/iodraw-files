@@ -19,8 +19,8 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-53" value="结果反馈阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1032" y="60" width="169" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-54" value="上传参考音频&#xa;支持 wav、mp3、flac 等格式" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="239" y="251" width="216" height="57" as="geometry" />
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-54" value="上传参考音频&#xa;支持 wav、mp3、flac 等格式" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="239" y="251" width="221" height="69" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-55" value="统一转码为 WAV&#xa;便于后续统一分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="511" y="205" width="156" height="57" as="geometry" />
