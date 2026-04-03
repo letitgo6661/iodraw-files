@@ -31,7 +31,7 @@
         <mxCell id="FyQLIG1uImiY3Z61EWHA-9" value="文本过长时触发自动分句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="1008" y="191" width="236" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FyQLIG1uImiY3Z61EWHA-10" value="参考音频异常时提示更换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
+        <mxCell id="FyQLIG1uImiY3Z61EWHA-10" value="参考音频异常时提示更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
           <mxGeometry x="697" y="240" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FyQLIG1uImiY3Z61EWHA-11" value="模型未加载时返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FyQLIG1uImiY3Z61EWHA-1">
