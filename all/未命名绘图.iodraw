@@ -31,7 +31,7 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-57" value="根据预设规则进行综合评估&#xa;· 时长过短不推荐&#xa;· 5–20 秒更适合作为参考&#xa;· 音量过低提示重录&#xa;· 非单声道提示可能影响效果" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;fontFamily=宋体;fontSize=17;align=left;" vertex="1" parent="1">
           <mxGeometry x="1010" y="139" width="240" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-58" value="输出质量等级并生成解释性提示&#xa;等级：Good / Fair / Poor&#xa;提示：推荐使用 / 可以使用 / 建议更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-58" value="输出质量等级并生成解释性提示&#xa;等级：Good / Fair / Poor&#xa;提示：推荐使用 / 可以使用 / 建议更换" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1300" y="89" width="228" height="83" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-59" value="质量评估依据&#xa;——&#xa;时长 / 音量 / 声道" style="whiteSpace=wrap;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
