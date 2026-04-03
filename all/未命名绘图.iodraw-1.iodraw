@@ -39,7 +39,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-sXcnta8Uq9JbpJqfna5-12" value="普通文本" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-3" target="-sXcnta8Uq9JbpJqfna5-4">
+        <mxCell id="-sXcnta8Uq9JbpJqfna5-12" value="普通文本" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;" edge="1" parent="1" source="-sXcnta8Uq9JbpJqfna5-3" target="-sXcnta8Uq9JbpJqfna5-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="211" y="283" />
