@@ -13,7 +13,7 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-51" value="特征分析阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="504" y="126" width="169" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-52" value="&amp;quot;质量判定阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-52" value="质量判定阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="757" y="73" width="169" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-53" value="&amp;quot;结果反馈阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
