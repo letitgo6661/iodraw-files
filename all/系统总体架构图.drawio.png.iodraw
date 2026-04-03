@@ -7,7 +7,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-1" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="976" y="20" width="623" height="694" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-2" value="文件与结果存储" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-2" value="文件与结果存储" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1019" y="55" width="537" height="119" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-3" value="参考音频库" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-2">
@@ -100,7 +100,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-32" value="音频上传" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="0XMrlNC3brzq93ETkNUD-28">
           <mxGeometry x="560" y="46" width="118" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-33" value="系统总体架构" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="825" y="316" width="101" height="101" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=0;rounded=1;" edge="1" parent="1" source="0XMrlNC3brzq93ETkNUD-28" target="0XMrlNC3brzq93ETkNUD-33">
