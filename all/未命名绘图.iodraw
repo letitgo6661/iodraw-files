@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-49" value="音频输入阶段" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="20" y="265" width="169" height="29" as="geometry" />
+        </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-50" value="&amp;quot;预处理阶段&amp;quot;" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="173" width="157" height="29" as="geometry" />
         </mxCell>
@@ -34,10 +37,9 @@
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-59" value="质量评估依据&#xa;——&#xa;时长 / 音量 / 声道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="766" y="272" width="151" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="NWQfpr0lLZqZzAGBvDfQ-54">
+        <mxCell id="NWQfpr0lLZqZzAGBvDfQ-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="NWQfpr0lLZqZzAGBvDfQ-49" target="NWQfpr0lLZqZzAGBvDfQ-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="189" y="279.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NWQfpr0lLZqZzAGBvDfQ-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0.07;entryY=0;rounded=0;" edge="1" parent="1" source="NWQfpr0lLZqZzAGBvDfQ-50" target="NWQfpr0lLZqZzAGBvDfQ-55">
