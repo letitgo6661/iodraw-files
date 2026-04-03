@@ -91,7 +91,7 @@
         <mxCell id="0XMrlNC3brzq93ETkNUD-29" value="浏览器页面" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="43" y="46" width="132" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0XMrlNC3brzq93ETkNUD-30" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
+        <mxCell id="0XMrlNC3brzq93ETkNUD-30" value="参数设置" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontSize=17;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
           <mxGeometry x="225" y="46" width="118" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0XMrlNC3brzq93ETkNUD-31" value="结果试听" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=17;fontFamily=宋体;" parent="0XMrlNC3brzq93ETkNUD-28" vertex="1">
