@@ -10,9 +10,6 @@
         <mxCell id="XxsvYqhSsh_ClJfVrc73-2" value="规则判定阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="531" width="498" height="414" as="geometry" />
         </mxCell>
-        <mxCell id="XxsvYqhSsh_ClJfVrc73-3" value="             特征分析阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="578" y="964" width="473" height="414" as="geometry" />
-        </mxCell>
         <mxCell id="XxsvYqhSsh_ClJfVrc73-4" value="预处理阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1122" width="252" height="118" as="geometry" />
         </mxCell>
