@@ -28,7 +28,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-41" value="Poor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="297" y="292" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-42" value="样本过短，不建议直接用于克隆。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-42" value="样本过短，不建议直接用于克隆。" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="217" y="416" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-43" value="时长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -40,7 +40,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-45" value="Good" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="581" y="292" width="97" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-46" value="更适合作为参考音频。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-46" value="更适合作为参考音频。" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="519" y="425" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-47" value="RMS音量" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
@@ -52,7 +52,7 @@
         <mxCell id="RjtRq0I_St6GRAFJc_rM-49" value="Fair / Poor" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="846" y="292" width="138" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RjtRq0I_St6GRAFJc_rM-50" value="提示音量偏低或录音环境较差。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
+        <mxCell id="RjtRq0I_St6GRAFJc_rM-50" value="提示音量偏低或录音环境较差。" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
           <mxGeometry x="789" y="416" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RjtRq0I_St6GRAFJc_rM-51" value="声道数" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RjtRq0I_St6GRAFJc_rM-34">
