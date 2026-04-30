@@ -191,6 +191,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-47" value="用户类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
+          <mxGeometry x="58.930000000000064" y="68.77999999999997" width="66.42857142857143" height="40.36127167630058" as="geometry" />
+        </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-34" value="核心作用" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1518" y="430" width="94" height="49" as="geometry" />
         </mxCell>
@@ -229,9 +232,6 @@
             </Array>
             <mxPoint x="1603.54" y="822" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ei5_eOkQ7M4PAacNrHiL-47" value="核心作用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="900" width="66.42857142857143" height="40.36127167630058" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
