@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-1" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="152.5" width="331" height="310" as="geometry" />
+          <mxGeometry x="1810" y="390" width="331" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-2" value="数据信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-1">
           <mxGeometry x="130.10794297352342" y="74.364161849711" width="83.5926680244399" height="43.90173410404624" as="geometry" />
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-21" value="web前端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="770" y="154" width="420" height="285" as="geometry" />
+          <mxGeometry x="790" y="380" width="420" height="285" as="geometry" />
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-22" value="用户类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
           <mxGeometry x="58.92857142857143" y="68.36705202312139" width="66.42857142857143" height="40.36127167630058" as="geometry" />
@@ -227,6 +227,9 @@
               <mxPoint x="1592" y="826" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-21" target="ei5_eOkQ7M4PAacNrHiL-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
