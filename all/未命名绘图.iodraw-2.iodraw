@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-10" value="flask框架" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="169" width="520" height="260" as="geometry" />
+          <mxGeometry x="1240.5" y="169" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-11" value="核心功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-10">
           <mxGeometry x="210" y="62.36994219653179" width="72.94117647058823" height="36.82080924855491" as="geometry" />
@@ -229,6 +229,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-21" target="ei5_eOkQ7M4PAacNrHiL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.393;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-10" target="ei5_eOkQ7M4PAacNrHiL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
