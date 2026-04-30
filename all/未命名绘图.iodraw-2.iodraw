@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-10" value="`" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="152.5" width="520" height="260" as="geometry" />
+          <mxGeometry x="1200" y="152.5" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-11" value="核心功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-10">
           <mxGeometry x="210" y="62.36994219653179" width="72.94117647058823" height="36.82080924855491" as="geometry" />
