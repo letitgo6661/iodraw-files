@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-1" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="410" y="10" width="331" height="310" as="geometry" />
+          <mxGeometry x="820" y="140" width="331" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-2" value="数据信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-1">
           <mxGeometry x="130.10794297352342" y="74.364161849711" width="83.5926680244399" height="43.90173410404624" as="geometry" />
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-10" value="`" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="800" y="20" width="520" height="260" as="geometry" />
+          <mxGeometry x="1190" y="152.5" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ei5_eOkQ7M4PAacNrHiL-11" value="核心功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-10">
           <mxGeometry x="210" y="62.36994219653179" width="72.94117647058823" height="36.82080924855491" as="geometry" />
