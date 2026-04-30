@@ -1,0 +1,234 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="cWnd_2NqPSxQYCINf78Q">
+    <mxGraphModel dx="2026" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-1" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="491" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-2" value="数据信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-1">
+          <mxGeometry x="193" y="83" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-3" value="数据存储系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-1">
+          <mxGeometry x="28" y="46" width="444" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-4" value="语音数据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-1">
+          <mxGeometry x="208" y="268" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-5" value="用户数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0;entryY=0.09;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-1" source="ei5_eOkQ7M4PAacNrHiL-2" target="ei5_eOkQ7M4PAacNrHiL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="79" y="170" />
+              <mxPoint x="79" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-6" value="语音记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.19;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-1" source="ei5_eOkQ7M4PAacNrHiL-2" target="ei5_eOkQ7M4PAacNrHiL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="170" />
+              <mxPoint x="167" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-7" value="批量任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-1" source="ei5_eOkQ7M4PAacNrHiL-2" target="ei5_eOkQ7M4PAacNrHiL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-8" value="日志记录" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-1" source="ei5_eOkQ7M4PAacNrHiL-2" target="ei5_eOkQ7M4PAacNrHiL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="170" />
+              <mxPoint x="343" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-9" value="语音数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=1;entryY=0.09;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-1" source="ei5_eOkQ7M4PAacNrHiL-2" target="ei5_eOkQ7M4PAacNrHiL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="431" y="170" />
+              <mxPoint x="431" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-10" value="flask框架" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="561" y="20" width="884" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-11" value="核心功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-10">
+          <mxGeometry x="357" y="83" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-12" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-10">
+          <mxGeometry x="28" y="46" width="820" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-13" value="提供RESTful API" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-10">
+          <mxGeometry x="348" y="268" width="143" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-14" value="语音克隆" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="170" />
+              <mxPoint x="91" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-15" value="文本转语音" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="170" />
+              <mxPoint x="187" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-16" value="批量文本转语音" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.24;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="307" y="170" />
+              <mxPoint x="307" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-17" value="语音合成" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-18" value="系统管理(权限控制)" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.79;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="170" />
+              <mxPoint x="545" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-19" value="数据库交互" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=1;entryY=0.08;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="679" y="170" />
+              <mxPoint x="679" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-20" value="提供RESTful API" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=1;entryY=0.21;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-10" source="ei5_eOkQ7M4PAacNrHiL-11" target="ei5_eOkQ7M4PAacNrHiL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="170" />
+              <mxPoint x="800" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-21" value="web前端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="20" width="784" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-22" value="用户类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
+          <mxGeometry x="110" y="83" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-23" value="展示系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
+          <mxGeometry x="29" y="46" width="728" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-24" value="管理员" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
+          <mxGeometry x="145" y="268" width="78" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-25" value="核心作用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
+          <mxGeometry x="466" y="83" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-26" value="用户输入处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="ei5_eOkQ7M4PAacNrHiL-21">
+          <mxGeometry x="477" y="268" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-27" value="未注册用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.04;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-22" target="ei5_eOkQ7M4PAacNrHiL-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="76" y="170" />
+              <mxPoint x="76" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-28" value="注册用户" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-22" target="ei5_eOkQ7M4PAacNrHiL-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-29" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.79;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-22" target="ei5_eOkQ7M4PAacNrHiL-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="170" />
+              <mxPoint x="252" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-30" value="提供用户界面" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0;entryY=0;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-25" target="ei5_eOkQ7M4PAacNrHiL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348" y="170" />
+              <mxPoint x="348" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-31" value="与服务器交互" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-25" target="ei5_eOkQ7M4PAacNrHiL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="468" y="170" />
+              <mxPoint x="468" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-32" value="动态渲染页面" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.63;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-25" target="ei5_eOkQ7M4PAacNrHiL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="170" />
+              <mxPoint x="588" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-33" value="用户输入处理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.94;entryY=-0.01;rounded=0;" edge="1" parent="ei5_eOkQ7M4PAacNrHiL-21" source="ei5_eOkQ7M4PAacNrHiL-25" target="ei5_eOkQ7M4PAacNrHiL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="708" y="170" />
+              <mxPoint x="708" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-34" value="核心作用" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2329" y="169" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-35" value="核心功能" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2329" y="439" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-36" value="数据信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="2329" y="561" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-37" value="用户请求(Ajax交互)" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=0.99;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-34" target="ei5_eOkQ7M4PAacNrHiL-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2285" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-38" value="处理结果返回(JSON数据)" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0.61;entryY=0.99;rounded=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-35" target="ei5_eOkQ7M4PAacNrHiL-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2467" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-39" value="数据存储、查询、更新" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-35" target="ei5_eOkQ7M4PAacNrHiL-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2280" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ei5_eOkQ7M4PAacNrHiL-40" value="返回查询结果、任务状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0;entryX=0.91;entryY=1;rounded=0;" edge="1" parent="1" source="ei5_eOkQ7M4PAacNrHiL-36" target="ei5_eOkQ7M4PAacNrHiL-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2472" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
